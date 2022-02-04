@@ -13,7 +13,7 @@ struct ContentView: View {
             .padding()
         Text("Second, ")
             .padding()
-        Text("Second, ")
+        Text("4")
             .padding()
     }
 }
